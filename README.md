@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Cole987
 - 👀 I’m interested in lot of thing that i can not listed all
-- 📫 How to reach me ? just by Mail via yanis.r@cole-ninou.com or by Phone on the : +33 9 72 32 65 29
+- 📫 How to reach me ? just by Mail via yanis.r@cole-ninou.com
 - 🧑‍💻 My Website : http://cole-ninou.com
