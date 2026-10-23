@@ -4,9 +4,12 @@
   <em>Politics by profession. Technology by curiosity. Bureaucracy by accident.</em>
 </p>
 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/Cole987">
-    <img src="https://img.shields.io/badge/GitHub-Cole987-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Cole987-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/YanisRac">
+    <img src="https://img.shields.io/badge/X-@YanisRac-000000?style=flat-square&logo=x&logoColor=white" alt="X — @YanisRac" />
   </a>
   <img src="https://img.shields.io/badge/Politics-Strategy%20%26%20Institutions-23395B?style=flat-square" alt="Politics and Institutions" />
   <img src="https://img.shields.io/badge/Technology-Code%20%26%20Systems-3A6B5C?style=flat-square" alt="Technology and Systems" />
@@ -173,12 +176,32 @@ E-waste is bad. Abandonware is a personal challenge.
 - **Document your work.** Future you is another developer, and future you deserves better.
 - **Never trust a bug-free program.** Either you're exceptionally talented, or you haven't tested it properly.
 
-## 07 — Find Me
+## 07 — Contact & Socials
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Cole987">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://x.com/YanisRac">
+    <img src="https://img.shields.io/badge/Follow%20me%20on-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:Yanis.r@cole-ninou.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-8B7355?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>For technology, political discussions, collaboration or just a good conversation.</sub>
+</p>
+
+---
+
+<p align="center">
+  <em>Building software, navigating politics and keeping the past compatible with the future.</em>
+</p>
+
+<p align="center">
+  <sub>No computers were classified during the writing of this README. Probably.</sub>
 </p>
 
 ---
