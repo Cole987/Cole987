@@ -203,13 +203,3 @@ E-waste is bad. Abandonware is a personal challenge.
 <p align="center">
   <sub>No computers were classified during the writing of this README. Probably.</sub>
 </p>
-
----
-
-<p align="center">
-  <em>Building software, navigating politics and keeping the past compatible with the future.</em>
-</p>
-
-<p align="center">
-  <sub>No computers were classified during the writing of this README. Probably.</sub>
-</p>
