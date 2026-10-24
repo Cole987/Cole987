@@ -69,15 +69,19 @@ Especially when you work in politics.
 
 **Technologies:** Swift · SwiftUI
 
-[Explore my repositories →](https://github.com/Cole987?tab=repositories)
+[Vie PromiseTracker →](https://github.com/Cole987/Promiseskept)
 
-### `02` · Webstock
+### `02` · SystemBanner_Office
 
-A technology project connected to my interest in servers, infrastructure and self-hosting.
+**Document classification without the paperwork headache.**
 
-Exploring the systems that keep things running — preferably without having to explain to anyone why the server is down.
+An Office add-in designed to make classifying documents simpler and more accessible.
 
-[Explore my repositories →](https://github.com/Cole987?tab=repositories)
+The idea is straightforward: make it easier to apply classification markings to documents directly within the Office workflow, without turning a simple task into an administrative expedition.
+
+Because classifying a document should take less time than debating what to call the classification button.
+
+[View SystemBanner_Office →](https://github.com/Cole987/SystemBanner_Office)
 
 ### `03` · SystemBanner_XP
 
@@ -99,7 +103,7 @@ Some people collect vintage computers. I give them administrative responsibiliti
 
 [View SystemBanner_XP →](https://github.com/Cole987/SystemBanner_XP)
 
-<sub>Disclaimer: Displaying a classification banner is not, by itself, a security control or an official classification decision. Please follow the applicable policies and procedures of your organisation.</sub>
+<sub>Displaying a classification banner or marking a document does not, by itself, determine its official classification or guarantee compliance with an organisation's security policies.</sub>
 
 ## 04 — My Toolbox
 
